@@ -81,7 +81,7 @@ bash restore/restore-mac-setup.sh
 ### Quick Install
 ```bash
 # Clone to your preferred location
-git clone <repository-url> ~/Desktop/personal-work/mac-transfer-utility
+git clone git@github.com:Ozymandiaz1876/mac-backup-helper.git ~/Desktop/personal-work/mac-transfer-utility
 cd ~/Desktop/personal-work/mac-transfer-utility
 
 # Make executable
