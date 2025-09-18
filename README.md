@@ -332,9 +332,6 @@ Contributions welcome! Areas for improvement:
 - Cloud storage integration
 - Configuration validation
 
-## 📝 License
-
-[Add your preferred license]
 
 ## 🙋 Support
 
